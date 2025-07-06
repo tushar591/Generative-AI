@@ -1,0 +1,16 @@
+{
+  "name": "genai",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "LLM.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.8.0",
+    "readline-sync": "^1.4.10"
+  }
+}
