@@ -7,7 +7,7 @@
   "type": "module",
   "main": "LLM.js",
   "scripts": {
-    "dev": "node index.js"
+    "dev": "node DSA.js"
   },
   "dependencies": {
     "@google/genai": "^1.8.0",
