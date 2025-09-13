@@ -1,1 +1,1 @@
-Learning Generative-AI.
+Learning GenerativeAI.
